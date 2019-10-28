@@ -1,0 +1,8 @@
+.vscode/
+build_version
+coverage-all.out
+coverage.out
+test-coverage.html
+test-results.out
+build/
+.DS_Store

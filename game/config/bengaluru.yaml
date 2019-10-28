@@ -1,0 +1,56 @@
+---
+team_name: Bengaluru
+data:
+  target_run: 40
+  over: 4
+  players:
+  - kirat boli
+  - N.S Nodhi
+  - R Rumrah
+  - Shashi Henra
+  score:
+  - Dot Ball
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - out
+  player_score_probablity:
+    kirat boli:
+    - 5
+    - 30
+    - 25
+    - 10
+    - 15
+    - 1
+    - 9
+    - 5
+    N.S Nodhi:
+    - 10
+    - 40
+    - 20
+    - 5
+    - 10
+    - 1
+    - 4
+    - 10
+    R Rumrah:
+    - 20
+    - 30
+    - 15
+    - 5
+    - 5
+    - 1
+    - 4
+    - 20
+    Shashi Henra:
+    - 30
+    - 25
+    - 5
+    - 0
+    - 5
+    - 1
+    - 4
+    - 30
